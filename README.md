@@ -18,7 +18,6 @@
 ![](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![](https://img.shields.io/badge/Kingfisher-1DA1F2?style=flat)
 
 ## 스크린 샷
-## 전체 스크린샷
 
 | 로그인 화면 | 상품 화면 | 상품 상세 화면 | 프로필 화면 |
 |------------|------------|----------------|-------------|
